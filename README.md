@@ -12,7 +12,6 @@ Final-year **BS Data Science** student at **FAST-NUCES Islamabad**, working on c
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**SBH-Chatbot**](https://github.com/Mnb-0/SBH-Chatbot) | Corporate RAG assistant: hybrid dense+sparse retrieval, LLM sector routing, a 70B critic pass, and a 117-question LLM-judge evaluation | Python · Qdrant · LangChain · Groq · FastAPI |
 | [**Near-Real-Time Data Warehouse**](https://github.com/Mnb-0/Near_Real_Time_Data_Warehouse) | Streams transactions through a HYBRIDJOIN stream-relation join into a MySQL star schema for OLAP | Python · MySQL · SQL |
 | [**Console Text Editor**](https://github.com/Mnb-0/Console-Based-Text-Editor) | Multi-threaded ncurses editor with background spell-check, undo/redo, find & replace, and a sanitizer-tested unit suite | C++17 · CMake · ncurses |
 | [**Smart Traffic Management**](https://github.com/Mnb-0/Smart-Traffic-Management-System) | City traffic simulator: graph routing, signal control, congestion and emergency-vehicle handling | C++ · graphs · heaps |
